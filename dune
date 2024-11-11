@@ -3,6 +3,7 @@
  (deps
   bin/main.bc.js
   index.html
+  CNAME
   (glob_files statics/*)
   (glob_files statics/images/*)
 ))
